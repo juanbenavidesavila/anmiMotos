@@ -1,0 +1,11 @@
+{
+    "name": "jeapSolutions",
+    "icons": [
+      {
+        "src": "static/#",
+        "type": "image/jpg",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
