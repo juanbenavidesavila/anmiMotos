@@ -1,8 +1,8 @@
 {
-    "name": "jeapSolutions",
+    "name": "anmimotos",
     "icons": [
       {
-        "src": "static/#",
+        "src": "static/jeapSolutions",
         "type": "image/jpg",
         "sizes": "512x512"
       }

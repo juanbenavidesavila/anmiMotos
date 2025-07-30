@@ -88,6 +88,26 @@ section h2 {
   height: auto;
 }
 
+.bg-warning-custom {
+  background-color: #ffc107;
+}
+.section-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.important-text {
+  color: red;
+  font-weight: bold;
+}
+.checklist li {
+  margin-bottom: 0.3rem;
+}
+
+.motorcycle-img {
+  max-width: 100%;
+  height: auto;
+}
+
 footer {
   background-color: #1b1b1b;
   color: #ccc;
